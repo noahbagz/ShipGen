@@ -14,7 +14,7 @@ After you download the ShipD Dataset, run the jupyter notebooks in this order:
 
 ## Other Resources ##
 Check out MIT's DeCoDE Lab for more machine learning tools and datasets for engineering design:
-decode.mit.edu
+https://decode.mit.edu
 
 The ShipGen Porject Page is found at:
-decode.mit.edu/projects/shipgen/
+https://decode.mit.edu/projects/shipgen/
