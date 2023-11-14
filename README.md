@@ -26,4 +26,4 @@ https://decode.mit.edu
 
 The ShipGen Porject Page is found at:
 
-https://decode.mit.edu/projects/shipgen/
+https://decode.mit.edu/projects/ShipGen/
